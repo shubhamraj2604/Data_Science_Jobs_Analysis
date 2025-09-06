@@ -74,6 +74,7 @@ Evaluated salary distributions for common data roles and analyzed **top-paying v
 
 **Visualization:**  
 <!-- Place your salary distribution plot here -->
+![alt text](images/Salary_analysis.png)
 
 
 **Key Insights:**
